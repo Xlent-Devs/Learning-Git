@@ -1,1 +1,2 @@
 Its a git test file
+We are currently on Branch A
